@@ -7,15 +7,15 @@
 
 ## 🛠️Instrumente folosite:
 <a href = "https://developer.android.com/studio">
-    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/android.png" alt="Android SDK" width = "auto" height="40px" align="center" title="Android Studio" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_AndroidStudio.png" alt="Android SDK" width = "auto" height="40px" align="center" title="Android Studio" />
 </a>
 
 <a href = "https://firebase.google.com/">
-    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/firebase2.png" alt="Firebase Realtime Database" width = "auto" height="40px" align="center" title="Firebase Realtime Database" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_Firebase.png" alt="Firebase Realtime Database" width = "auto" height="40px" align="center" title="Firebase Realtime Database" />
 </a>
 
 <a href = "https://developers.google.com/maps">
-    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/googleMaps.png" alt="Google Maps" width = "auto" height="40px" align="center" title="Google Maps" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_GoogleMaps.png" alt="Google Maps" width = "auto" height="40px" align="center" title="Google Maps" />
 </a>
 
 
